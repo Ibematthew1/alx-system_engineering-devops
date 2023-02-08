@@ -1,1 +1,1 @@
-0. Where am I?\n
+Where am I?\n
