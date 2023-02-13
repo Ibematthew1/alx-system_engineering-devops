@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $ (cut -d | tr -d " \n")_
